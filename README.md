@@ -11,4 +11,8 @@
   - Chờ chạy xong.
   - Restart lại máy là xong!
 
-### 
+### Kích chọn vào Show Desktop Icons
+  - Bấm chuột phải trên màn hình desktop.
+  - Vào **View** rồi chọn **Show desktop icons** là xong!
+  - ![image](https://github.com/BsNgChiThanh/Fix-icon/assets/82578024/37d1c864-118a-4b7b-99ab-f11409b93380)
+  - ![image](https://github.com/BsNgChiThanh/Fix-icon/assets/82578024/80a47e2f-4317-49b1-ba52-08a3e5a6f4cb)
